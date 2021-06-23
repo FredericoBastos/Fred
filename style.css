@@ -1,0 +1,55 @@
+body{
+text-align: center;	
+font-family: Kirang Haerang;
+background-image: url(imagens/code.jpg);
+color: white;
+background-size: cover;
+}
+
+h1{
+font-size: 90px;
+padding: 300px 0 0 0;
+text-shadow: 2px 2px 20px black;
+margin-bottom: 15px;
+}
+
+p{
+font-size: 30px;
+opacity: 1;
+text-shadow: 2px 2px 20px black;
+}
+
+.segundo-paragrafo {
+margin-bottom: 100px;
+font-size: 30px;
+}
+
+.botao{
+color: black;
+text-decoration: none;
+background-color: rgb(0,168,0);
+padding: 10px 15px 10px 15px;
+border-radius: 4px;
+font-size: 30px;
+font-weight: bold;
+}
+
+.botao:hover {
+background-color: rgba(0,251,0,0.8);
+}
+
+.lista{
+list-style: none;
+padding-left: 0;
+margin-top: 150px;
+}
+
+.lista a{
+color: green;
+text-decoration: none;
+font-size: 35px;
+}
+
+.lista a:hover {
+opacity: 0.7;
+}
